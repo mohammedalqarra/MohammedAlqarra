@@ -1,4 +1,3 @@
-# MohammedAlqarra
 
 
 <h1 align="center">Hi 👋, I'm Mohammed AlQarra</h1>
